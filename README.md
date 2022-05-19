@@ -1,2 +1,2 @@
 # netflix-clone
-Recriando Interface Netflix - Curso DIO
+Recriando Interface Netflix - Curso DIO.
